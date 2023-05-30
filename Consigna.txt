@@ -1,0 +1,2 @@
+Pagina web que pueda tener altas, bajas y modificaciones de equipos de basketball.
+Guardar los equipos en JSON.
